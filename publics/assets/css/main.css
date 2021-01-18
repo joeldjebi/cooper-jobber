@@ -1,0 +1,209 @@
+.mb-3,
+.my-3 {
+    margin-bottom: 1rem!important;
+}
+
+.jobber-candidate-timeline {
+    position: relative;
+}
+
+.jobber-candidate-timeline:before {
+    content: '';
+    position: absolute;
+    left: 20px;
+    width: 2px;
+    top: 5px;
+    bottom: 5px;
+    height: calc(100% - 5px);
+    background-color: #eeeeee;
+}
+
+.jobber-candidate-timeline .jobber-timeline-icon {
+    border: 2px solid #eeeeee;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    line-height: 42px;
+    text-align: center;
+    background: #ffffff;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.jobber-candidate-timeline .jobber-timeline-icon i {
+    font-size: 16px;
+    color: #001935;
+}
+
+.fa-briefcase:before {
+    content: "\f0b1";
+}
+
+.jobber-candidate-timeline .jobber-timeline-item {
+    display: table;
+    position: relative;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.jobber-candidate-timeline .jobber-timeline-item .jobber-timeline-cricle {
+    border-radius: 50%;
+    border: 12px solid white;
+    z-index: 1;
+    top: 5px;
+    left: 9px;
+    position: absolute;
+}
+
+.jobber-candidate-timeline .jobber-timeline-item .jobber-timeline-cricle:before {
+    content: '';
+    position: absolute;
+    left: 12px;
+    width: 20px;
+    top: -1px;
+    bottom: 5px;
+    height: 2px;
+    background-color: #eeeeee;
+}
+
+.jobber-candidate-timeline .jobber-timeline-item .jobber-timeline-cricle>i {
+    font-size: 15px;
+    top: -8px;
+    left: -7px;
+    position: absolute;
+    color: #ff8a00;
+}
+
+.fa-circle:before {
+    content: "\f111";
+}
+
+.jobber-candidate-timeline .jobber-timeline-item .jobber-timeline-info {
+    display: table-cell;
+    vertical-align: top;
+    padding: 5px 0 0 70px;
+}
+
+.jobber-candidate-timeline .jobber-timeline-item .jobber-timeline-info span {
+    color: #001935;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.jobber-candidate-timeline .jobber-timeline-item .jobber-timeline-info h6 {
+    color: #ff8a00;
+    margin: 5px 0 0px;
+}
+
+.jobber-candidate-timeline .jobber-timeline-item .jobber-timeline-info span {
+    color: #001935;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.mt-2,
+.my-2 {
+    margin-top: .5rem!important;
+}
+
+.jobber-candidate-timeline .jobber-timeline-item {
+    display: table;
+    position: relative;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.jobber-candidate-timeline .jobber-timeline-item .jobber-timeline-cricle {
+    border-radius: 50%;
+    border: 12px solid white;
+    z-index: 1;
+    top: 5px;
+    left: 9px;
+    position: absolute;
+}
+
+.jobber-candidate-timeline .jobber-timeline-item .jobber-timeline-cricle:before {
+    content: '';
+    position: absolute;
+    left: 12px;
+    width: 20px;
+    top: -1px;
+    bottom: 5px;
+    height: 2px;
+    background-color: #eeeeee;
+}
+
+.jobber-candidate-timeline .jobber-timeline-item .jobber-timeline-cricle>i {
+    font-size: 15px;
+    top: -8px;
+    left: -7px;
+    position: absolute;
+    color: #ff8a00;
+}
+
+.fa-circle:before {
+    content: "\f111";
+}
+
+.jobber-candidate-timeline .jobber-timeline-item .jobber-timeline-info {
+    display: table-cell;
+    vertical-align: top;
+    padding: 5px 0 0 70px;
+}
+
+.jobber-candidate-timeline .jobber-timeline-item .jobber-timeline-info span {
+    color: #001935;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.jobber-candidate-timeline span.jobber-timeline-time {
+    color: #969696 !important;
+}
+
+.jobber-candidate-timeline .jobber-timeline-item .jobber-timeline-info h6 {
+    color: #ff8a00;
+    margin: 5px 0 0px;
+}
+
+.jobber-candidate-timeline .jobber-timeline-item .jobber-timeline-info span {
+    color: #001935;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.mt-2,
+.my-2 {
+    margin-top: .5rem!important;
+}
+
+.qwertyy {
+    padding: 10px;
+}
+
+.nameemail-content {
+    margin-bottom: 100px;
+}
+
+.utf-category-box-icon-item img {
+    background: #fff;
+    display: inline-block;
+    width: auto;
+    height: 100px;
+    line-height: 64px;
+    font-size: 34px;
+    transition: 0.35s;
+    margin-bottom: 12px;
+    border-radius: 50%;
+    border: 3px solid rgba(0, 0, 0, 0.04);
+}
+
+.utf-header-widget-item.logingreen a {
+    background: #54575c;
+    border: 1px solid #54575c;
+}
+
+.item-links-rs ul { 
+    text-align: center;
+}
+
